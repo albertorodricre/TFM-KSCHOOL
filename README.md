@@ -16,3 +16,6 @@ Asigna cada valor predicho a su correspondiente distrito.
 Colorea el mapa en función de las predicciones obtenidas.
 
 Muestra un mensaje interpretativo basado en el índice promedio calculado.
+
+En el archivo de texto Despliegue_TFM se muestra cual era la idea de despliegue, sumulando una asociación con el ayuntamiento de Madrid. 
+Lo interesante es poder ver el funcionamiento y el mapa generado por el modelo. 
